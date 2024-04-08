@@ -1,4 +1,4 @@
-# Chat Analyzer
+# Chat Analyzer📄
 
 📝 Analyze chat logs to find total messages, most active user, and most active hour.
 

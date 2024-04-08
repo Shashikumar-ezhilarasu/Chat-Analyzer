@@ -38,7 +38,7 @@ def analyze_chat(file_path):
     return total_messages, most_active_user, most_active_hour
 
 # Example usage:
-file_path = '/Users/shashikumarezhil/Documents/chat_log.txt'
+file_path = '/Users/shashikumarezhil/Documents/chat_log.txt' #edit according to your file location
 total_messages, most_active_user, most_active_hour = analyze_chat(file_path)
 
 print(f'Total messages: {total_messages}')
